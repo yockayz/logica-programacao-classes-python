@@ -24,7 +24,7 @@ Os seguintes exercícios estão presentes neste repositório:
 
    ```bash
    python --version
-````
+``
 
 2. **Nenhuma dependência adicional** é necessária, já que todos os exercícios utilizam apenas bibliotecas padrão do Python.
 
